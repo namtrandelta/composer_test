@@ -4,7 +4,6 @@
     "minimum-stability": "beta",
     "require": {
         "twig/twig": "2.0",
-        "twbs/bootstrap": "^5.0@beta",
         "php": ">=5.3.0"
     }
 }
