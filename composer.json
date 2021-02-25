@@ -1,0 +1,14 @@
+{
+    "name": "namtrandelta/composer_test",
+    "description": "The fisrt composer package",
+    "minimum-stability": "beta",
+    "require": {
+        "twig/twig": "2.0",
+        "twbs/bootstrap": "^5.0@beta"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "inc/"
+        }
+    }
+}
